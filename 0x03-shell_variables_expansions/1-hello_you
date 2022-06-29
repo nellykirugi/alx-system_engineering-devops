@@ -1,3 +1,2 @@
 #!/bin/bash
-cat > 1-hello_you
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D[D[D[D[C[C[Cecho "hello $USER"
+echo "hello $USER"
